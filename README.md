@@ -38,13 +38,10 @@ TikTok, known in China as Douyin, is a video-sharing social networking service o
 - <a href="https://github.com/ReactiveX/RxSwift">RxSwift</a>
 - <a href="https://github.com/cbpowell/MarqueeLabel">MarqueeLabel</a>
 
-## Other Projects
 
-- [Instagram Clone](https://github.com/dks333/KDInstagram)
-- [My Mobile Development Journey](https://github.com/dks333/Study-Mobile-Development)
+## About Original Author
 
-## About Author
-
+[Original Project (not the same)](https://github.com/dks333/Tiktok-Clone/blob/master/README.md) <br>
 Sam Ding,  [dingkaishan@gmail.com](mailto:dingkaishan@gmail.com) <br>
 [Twitter](https://twitter.com/SamDing32388985)
 
